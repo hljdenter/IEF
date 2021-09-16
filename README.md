@@ -1,6 +1,9 @@
 # IEF
-Datormācība(Pamatkurs) ELEKTRONISKĀ KLADE
+-Datormācība(Pamatkurs) ELEKTRONISKĀ KLADE
 
-KKKK
+-KKKK
 
-KKKKK
+-KKKKK
+
+-NAME
+      -uname - print system information
